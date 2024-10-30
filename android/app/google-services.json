@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "653037708950",
+    "project_id": "smapp-703f5",
+    "storage_bucket": "smapp-703f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653037708950:android:eeb4203701e7c69a64c4b7",
+        "android_client_info": {
+          "package_name": "com.example.sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653037708950-nanjfcdvravip6smb39gr9tesnk26krd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sms",
+            "certificate_hash": "f47df323d5af4f0d8c4d8c09a9d95e91f71bb1c3"
+          }
+        },
+        {
+          "client_id": "653037708950-t14ngiqk288jcfa5cq0f2jijmsfvhusp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX_0AwpdS60dAyM8P8WuYVrMc6-ZIIGGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653037708950-t14ngiqk288jcfa5cq0f2jijmsfvhusp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
